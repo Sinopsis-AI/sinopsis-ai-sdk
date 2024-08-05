@@ -1,5 +1,4 @@
 import requests
-from sinopsis_ai.utils import update_conversation_in_db
 from datetime import datetime
 import json
 import uuid
