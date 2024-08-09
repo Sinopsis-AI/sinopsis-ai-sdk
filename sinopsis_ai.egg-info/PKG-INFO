@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
-Name: sinopsisai
-Version: 0.1.0
+Name: sinopsis-ai
+Version: 0.2.0
 Summary: A Python SDK for Sinopsis AI
 Home-page: https://github.com/daa192/sinopsis-ai-sdk
 Author: Sinopsis Data, LLC
@@ -20,4 +20,4 @@ A Python SDK for interacting with Sinopsis AI, designed to simplify the process 
 You can install the package using pip:
 
 ```bash
-pip install sinopsisai
+pip install sinopsis-ai

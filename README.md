@@ -7,4 +7,4 @@ A Python SDK for interacting with Sinopsis AI, designed to simplify the process 
 You can install the package using pip:
 
 ```bash
-pip install sinopsisai
+pip install sinopsis-ai

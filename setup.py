@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="sinopsisai",
+    name="sinopsis-ai",
     version="0.2.0", 
     author="Sinopsis Data, LLC", 
     author_email="info@sinopsisdata.com",
