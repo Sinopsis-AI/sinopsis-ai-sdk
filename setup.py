@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="sinopsis-ai",
+    name="sinopsisai",
     version="0.1.0", 
     author="Sinopsis Data, LLC", 
     author_email="info@sinopsisdata.com",
@@ -16,7 +16,6 @@ setup(
     ],
     python_requires='>=3.6',
     install_requires=[
-        "boto3==1.24.28",
-        "openai==1.12.0"
-    ],
+        "boto3==1.24.28"
+    ]
 )
