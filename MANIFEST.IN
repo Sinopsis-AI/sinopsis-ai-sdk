@@ -2,4 +2,4 @@ include README.md
 include requirements.txt
 include setup.py
 include LICENSE
-recursive-include sinopsisai *.py
+recursive-include sinopsis-ai *.py

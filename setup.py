@@ -2,13 +2,13 @@ from setuptools import setup, find_packages
 
 setup(
     name="sinopsis-ai",
-    version="0.2.0", 
+    version="0.3.0", 
     author="Sinopsis Data, LLC", 
-    author_email="info@sinopsisdata.com",
+    author_email="hello@sinopsisai.com",
     description="A Python SDK for Sinopsis AI",
     long_description=open('README.md').read(),
     long_description_content_type="text/markdown", 
-    url="https://github.com/daa192/sinopsis-ai-sdk", 
+    url="https://github.com/sinopsis-ai/sinopsis-ai-sdk", 
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
