@@ -1,4 +1,6 @@
 
+<img src="https://i.imgur.com/kVqw8jO.png" alt="Sinopsis AI Cover Image" width="800">
+
 # Official Sinopsis AI SDK for Python
 
 [![PyPI version](https://img.shields.io/pypi/v/sinopsis-ai.svg)](https://pypi.org/project/sinopsis-ai/)
