@@ -1,6 +1,6 @@
-# Sinopsis AI SDK
+# Official Sinopsis AI SDK for Python
 
-A Python SDK for interacting with Sinopsis AI, designed to simplify the process of logging user prompts and responses, and managing conversation data.
+This is the official Python SDK for interacting with [Sinopsis AI](https://www.sinopsisai.com), designed to simplify the process of logging user prompts and responses, and managing conversation data.
 
 ## Features
 
@@ -16,3 +16,5 @@ You can install the package using pip:
 
 ```bash
 pip install sinopsis-ai
+
+
