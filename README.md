@@ -1,10 +1,8 @@
 
-
 # Official Sinopsis AI SDK for Python
 
 [![PyPI version](https://img.shields.io/pypi/v/sinopsis-ai.svg)](https://pypi.org/project/sinopsis-ai/)
-[![License](https://img.shields.io/github/license/yourusername/sinopsis-ai.svg)](https://github.com/sinopsis-ai/sinopsis-ai-sdk/LICENSE)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This is the official Python SDK for interacting with [Sinopsis AI](https://www.sinopsisai.com), designed to simplify the process of logging user prompts and responses, and managing conversation data.
 
@@ -74,10 +72,10 @@ End the Session
 client.end_session()
 ```
 
-## Contributing to the SDK
-
 ## Getting Help/Support
+If you need help setting up or configuring the Python SDK (or anything else) please send us an email at hello@sinopsisai.com and we're ready to help you!
 
 ## Resources
 
 ## License
+Licensed under the MIT license, see [LICENSE](https://github.com/Sinopsis-AI/sinopsis-ai-sdk/blob/main/LICENSE)
