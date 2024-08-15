@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/fM3G71D.png" alt="Sinopsis AI Cover Image" width="800">
+<img src="https://i.imgur.com/fM3G71D.png" alt="Sinopsis AI Cover Image">
 
 # Official Sinopsis AI SDK for Python
 
