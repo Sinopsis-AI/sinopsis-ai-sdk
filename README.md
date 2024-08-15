@@ -18,12 +18,52 @@ You can install the package using pip:
 pip install sinopsis-ai
 ```
 
-## Configuration
+## Quick Start
 
-```bash
+Here’s how to get started with the Sinopsis AI SDK:
+
+Import and Initialize the SDK
+
+```python
 from sinopsis_ai import SinopsisAI
-```
 
 # Initialize the SDK with your API key
 api_key = "your_api_key_here"
 client = SinopsisAI(api_key)
+```
+
+Start a Session
+
+```python
+# Start a session with a specific user ID
+session = client.start_session(user="user_id")
+
+# Alternatively, let the SDK generate a user ID, session ID, and conversation ID automatically
+session = client.start_session()
+```
+
+Log a User Prompt
+
+```python
+# Log a user's input prompt
+client.log_prompt("Hello, how are you?")
+```
+
+Log an Assistant Response
+
+```python
+# Log the assistant's response along with model details
+client.log_response(
+    assistant_response="I'm fine, thank you!",
+    chatbot_name="ChatbotName",
+    model_name="ModelName",
+    model_input={"input": "Hello, how are you?"}
+)
+```
+
+End the Session
+
+```python
+# End the session, ensuring all data is saved
+client.end_session()
+```
