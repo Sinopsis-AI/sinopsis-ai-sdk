@@ -3,7 +3,7 @@
 # Official Sinopsis AI SDK for Python
 
 [![PyPI version](https://img.shields.io/pypi/v/sinopsis-ai.svg)](https://pypi.org/project/sinopsis-ai/)
-[![License](https://img.shields.io/github/license/yourusername/sinopsis-ai.svg)](https://github.com/sinopsis-ai/LICENSE)
+[![License](https://img.shields.io/github/license/yourusername/sinopsis-ai.svg)](https://github.com/sinopsis-ai/sinopsis-ai-sdk/LICENSE)
 
 
 This is the official Python SDK for interacting with [Sinopsis AI](https://www.sinopsisai.com), designed to simplify the process of logging user prompts and responses, and managing conversation data.
