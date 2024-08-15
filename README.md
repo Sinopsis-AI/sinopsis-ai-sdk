@@ -17,4 +17,11 @@ You can install the package using pip:
 ```bash
 pip install sinopsis-ai
 
+## Configuration
 
+```bash
+from sinopsis_ai import SinopsisAI
+
+# Initialize the SDK with your API key
+api_key = "your_api_key_here"
+client = SinopsisAI(api_key)
