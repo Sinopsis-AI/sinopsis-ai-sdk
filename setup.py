@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="sinopsis-ai",
-    version="0.3.0", 
+    version="0.4.0", 
     author="Sinopsis Data, LLC", 
     author_email="hello@sinopsisai.com",
     description="A Python SDK for Sinopsis AI",
